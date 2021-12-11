@@ -16,4 +16,8 @@ Participants were recruited via members of the [Mississippi Partnership for Comp
 
 A Qualtrics survey was developed to educate community members on the health benefits of diet and exercise as well as provide them with an opportunity to respond to questions in an open-ended format. The questions that gauged (1) their risk perceptions if they don't improve their health behaviors, (2) potential benefits associated with a healthy lifestyle, and (3) a plan developed to cope with a challenging situation that interferes with being active or consuming a healthy meal. The data were coded to reflect each specific construct.  In total, there were over 1000 comments. Rows with missing comments were deleted, and irrelevant comments were removed. 
 
+## Statistical Analysis
+
+NLP was used to 
+
 ## Results
